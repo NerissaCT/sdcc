@@ -9,6 +9,9 @@
 #include "ralloc.h"
 #include "gen.h"
 
+#include "genremix.h"
+
+
 static char _defaultRules[] = {
 #include "peeph.rul"
 };
